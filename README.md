@@ -28,7 +28,7 @@ PC: 4000
 PC: 4000
 ## Actividad 5: (CC) Patrón libre de color de al menos 80 píxeles
 ```
-21 43 77 22 00 C8 18 FE
+3E FF 32 00 C0 3E FF 32 01 C0 3E F6 32 02 C0 3E FC 32 03 C0 18 FE
 ```
 PC: 4000
 
